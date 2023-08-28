@@ -1,2 +1,1 @@
-# app-clima
-Card para mostrar o clima atual
+App para monitor o Clima atual
